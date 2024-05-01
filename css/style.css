@@ -13,7 +13,7 @@ body {
 .main_login {
     width: 100vw;
     height: 100vh;
-    background-color: #1e192c;
+    background: linear-gradient(200deg, #7023ff, #1e192c);
     display: flex;
     justify-content: center;
     align-items: center;
